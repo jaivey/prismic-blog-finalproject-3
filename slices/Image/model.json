@@ -13,11 +13,7 @@
       "primary": {
         "image": {
           "type": "Image",
-          "config": {
-            "label": "Image",
-            "constraint": {},
-            "thumbnails": []
-          }
+          "config": { "label": "Image", "constraint": {}, "thumbnails": [] }
         },
         "caption": {
           "type": "StructuredText",
@@ -30,7 +26,7 @@
         }
       },
       "items": {},
-      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+      "imageUrl": "https://images.prismic.io/npm-run-dev/shared-slices/image/default/aaea1216cc27a4f4157bc107269e91b86156cacc.png?auto=compress%2Cformat"
     },
     {
       "id": "wide",
@@ -41,11 +37,7 @@
       "primary": {
         "image": {
           "type": "Image",
-          "config": {
-            "label": "Image",
-            "constraint": {},
-            "thumbnails": []
-          }
+          "config": { "label": "Image", "constraint": {}, "thumbnails": [] }
         },
         "caption": {
           "type": "StructuredText",
@@ -58,7 +50,7 @@
         }
       },
       "items": {},
-      "imageUrl": "https://images.prismic.io/slice-machine/621a5ec4-0387-4bc5-9860-2dd46cbc07cd_default_ss.png?auto=compress,format"
+      "imageUrl": "https://images.prismic.io/npm-run-dev/shared-slices/image/wide/1048ea8da8c10f79e7d6f32f2e4c6c08257b67cf.png?auto=compress%2Cformat"
     }
   ]
 }
